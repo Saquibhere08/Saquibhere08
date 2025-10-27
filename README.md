@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **WhatsApp Clone using JettPack**
 
-- 🌱 I’m currently learning **Amazon AWS, Django**
+- 🌱 I’m currently learning **Android Application Development and Various other technologies**
 
 - 👯 I’m looking to collaborate on **Amazon AWS**
 
