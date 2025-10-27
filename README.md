@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@intotheshad0w" target="blank"><img src="https://img.shields.io/twitter/follow/@intotheshad0w?logo=twitter&style=for-the-badge" alt="@intotheshad0w" /></a> </p>
 
-- 🔭 I’m currently working on **Movie Recommender System using Python**
+- 🔭 I’m currently working on **WhatsApp Clone using JettPack**
 
 - 🌱 I’m currently learning **Amazon AWS, Django**
 
