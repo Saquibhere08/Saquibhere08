@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Amazon AWS**
 
-- 📫 How to reach me **halimsaquib99@gmail.com**
+- 📫 How to reach me **saquibbinhalim.365@gmail.com**
 
 - ⚡ Fun fact **I'm a hardworking Computer Science engineering student who can debug code like a pro—just don’t ask me what my life goals are yet, I’m still compiling them 😅💻🔥**
 
